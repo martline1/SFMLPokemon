@@ -1,9 +1,0 @@
-﻿  Start.cpp
-C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Start.cpp(20,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Start.cpp(20,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Start.cpp(21,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Start.cpp(21,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Village.cpp
-  main.cpp
-  Generating Code...
-  SFMLPokemon.vcxproj -> C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Debug\SFMLPokemon.exe

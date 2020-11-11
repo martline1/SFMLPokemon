@@ -1,2 +1,0 @@
-C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Debug\SFMLPokemon.exe
-C:\Users\yaela\Desktop\desk_ws\htdocs_ws\CPP\SFMLPokemon\Debug\SFMLPokemon.pdb
